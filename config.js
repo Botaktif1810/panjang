@@ -1,6 +1,6 @@
 /**
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Contact Me on wa.me/17726668882
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288227248988']
-global.premium = ['6288227248988']
+global.owner = ['17726668882']
+global.premium = ['17726668882']
 global.namaowner = ['Asrori Amin']
 global.namabot = [' Amin Bot']
 global.packname = 'Asrori'
